@@ -37,7 +37,7 @@ Aşağıda istenilen sonuçlara ulaşabilmek için gerekli SQL sorgularını yaz
 	
 	3) Kitap almayan öğrencileri listeleyin.
 	
-	4) 10A veya 10B sınıfındaki öğrencilerin sınıf ve okuduğu kitap sayısını getirin.
+	4) 10A veya 10B sınıfındaki öğrencilerin sınıf ve okuduğu kitap sayısını getirin. Büyükten küçüğe sıralayın.
 	
 	5) Öğrenci tablosundaki öğrenci sayısını gösterin
 	
